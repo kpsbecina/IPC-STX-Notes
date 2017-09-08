@@ -2,6 +2,8 @@
 ## Visual Studio
 [How to download and install Visual Studio 2015](https://www.youtube.com/watch?v=xMGhA5v4vxk)<br />
 [How to create a simple console application in Visual studio 2015](https://www.youtube.com/watch?v=6siQm1sIu5g) <br />
+[How to download and install Visual Studio 2017(coming soon)]()<br />
+[How to create a simple console application in Visual studio 2017(coming soon)]() <br />
 
 ## Coding Style:
 When writing your code you are not allowed to have tab character in your C code; this is how to convert tab to code in VI and Vistual studio and codelite: <br />
