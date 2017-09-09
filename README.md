@@ -1,6 +1,11 @@
 # IPC144 STT and SXX in-class notes and material 
 
 ## Subject Policies and marking (under construction)
+### IPC144 links ###
+[Subject outline](https://ict.senecacollege.ca/course/ipc144)<br />
+[Subject timeline](https://scs.senecac.on.ca/~ipc144/pages/timeline.html)<br />
+[ONline verions of the notes sold in the bookstore](https://scs.senecac.on.ca/~ipc144/pages/content/index.html)<br />
+[Workshops](https://github.com/Seneca-144100/IPC-Workshops)<br />
 ### Quiz Reflection
 In all the at-home part of your workshops, add a section to reflect.txt file called **Quiz X Reflection**. Replace the **X** with the number of the last quiz that you received and list the numbers of all questions that you answered incorrectly.
 Then for each incorrectly answered question write your mistake and the correct answer to that question. If you have missed the last quiz, then write all the questions and their answers.<br />
@@ -24,7 +29,7 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing git on windows 10](https://www.youtube.com/watch?v=tc3Aoi5Z1FE) <br />
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
 
-## Schedule 
+## Fardad's Schedule 
 
 <table style="background-color: White; width: 608px;"
 bordercolorlight="#72D8D8" bordercolordark="#2D9F9F" border="1"
