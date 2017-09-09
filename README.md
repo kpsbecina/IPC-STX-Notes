@@ -1,7 +1,12 @@
-# IPC144 STT and SXX in-class notes and material
+# IPC144 STT and SXX in-class notes and material 
+
+## Subject Policies and marking (under construction)
+### Quiz Reflection
+In all the at-home part of your workshops, add a section to reflect.txt file called **Quiz X Reflection**. Replace the **X** with the number of the last quiz that you received and list the numbers of all questions that you answered incorrectly.
+Then for each incorrectly answered question write your mistake and the correct answer to that question. If you have missed the last quiz, then write all the questions and their answers.<br />
+By adding this to your workshop reflection, you can reclaim half of the lost marks in your quiz.
 
 ## Visual Studio
-
 [How to download and install Visual Studio 2015](https://www.youtube.com/watch?v=xMGhA5v4vxk)<br />
 [How to create a simple console application in Visual studio 2015](https://www.youtube.com/watch?v=6siQm1sIu5g) <br />
 [How to download and install Visual Studio 2017(coming soon)]()<br />
@@ -9,10 +14,10 @@
 
 ## Coding Style:
 When writing your code you are not allowed to have tab character in your C code; this is how to convert tab to code in VI and Vistual studio and codelite: <br />
-[Converting tab to spaces in VI](http://vim.wikia.com/wiki/Converting_tabs_to_spaces) (thank you Peter Heng, OOP244SAB)<br />
+[Converting tab to spaces in VI](http://vim.wikia.com/wiki/Converting_tabs_to_spaces) <br />
 [Converting tab to spaces in Visual Studio](https://www.youtube.com/watch?v=oW4viEA72UI)<br />
 [Converting tab to spaces in Codelite](https://www.youtube.com/watch?v=XQMPJpA8fJI&t)<br />
-If you know how to do this in any other editor or IDE, please email me the resource and I will add it here.
+If you know how to do this in any other editors or IDEs, please email me the resource and I will add them here.
 
 ## Git
 [Pro Git Book](https://git-scm.com/book): This is and online complete reference to git and its commands (command line). I recommend reading chapter 1 and 2 and glancing chapter 6. This will be more than enough to get your through atleast first three semesters of college, if not all. <br />
