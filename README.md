@@ -29,6 +29,10 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing git on windows 10](https://www.youtube.com/watch?v=tc3Aoi5Z1FE) <br />
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
 
+## Lecture Videos
+[Week 1 and half of 2](https://www.youtube.com/watch?v=zgAC5xGx8kA) <br />
+
+
 ## Fardad's Schedule 
 
 <table style="background-color: White; width: 608px;"
