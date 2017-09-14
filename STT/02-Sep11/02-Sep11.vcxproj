@@ -149,6 +149,9 @@
   <ItemGroup>
     <ClCompile Include="prg.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Operators.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
