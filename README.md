@@ -30,7 +30,11 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
 
 ## Lecture Videos
-[Week 1 and half of 2](https://www.youtube.com/watch?v=zgAC5xGx8kA) <br />
+[STT- Week 1 and half of 2](https://www.youtube.com/watch?v=zgAC5xGx8kA) <br />
+[SXX- Week 1 and half of 2](https://www.youtube.com/watch?v=JwbsjHK_uso) <br />
+[STT- Week 2 - Expressions](https://www.youtube.com/watch?v=t5StFsvteDA) <br />
+[SXX- Week 2 - Expressions](https://www.youtube.com/watch?v=yCJVHRrksVo) <br />
+[STX- Workshop 1](https://www.youtube.com/watch?v=C0HbqT_QW4I) <br />
 
 
 ## Fardad's Schedule 
