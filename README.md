@@ -9,7 +9,7 @@
 ### Quiz Reflection
 In all the at-home part of your workshops, add a section to reflect.txt file called **Quiz X Reflection**. Replace the **X** with the number of the last quiz that you received and list the numbers of all questions that you answered incorrectly.
 Then for each incorrectly answered question write your mistake and the correct answer to that question. If you have missed the last quiz, then write all the questions and their answers.<br />
-By adding this to your workshop reflection, you can reclaim half of the lost marks in your quiz.
+By adding this to your workshop reflection, you can reclaim half or more of the lost marks in your quiz.
 
 ## Visual Studio
 [How to download and install Visual Studio 2015](https://www.youtube.com/watch?v=xMGhA5v4vxk)<br />
