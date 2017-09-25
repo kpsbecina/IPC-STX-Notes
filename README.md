@@ -35,6 +35,9 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [STT- Week 2 - Expressions](https://www.youtube.com/watch?v=t5StFsvteDA) <br />
 [SXX- Week 2 - Expressions](https://www.youtube.com/watch?v=yCJVHRrksVo) <br />
 [STX- Workshop 1](https://www.youtube.com/watch?v=C0HbqT_QW4I) <br />
+[STT- Week 3 - Logic, Loops, if intro](https://www.youtube.com/watch?v=fvy1ORDPUdw) <br />
+[STT- Week 3 - Logic, Loops, if intro](https://www.youtube.com/watch?v=2IpCBv-nUOM) <br />
+[STX- Week 3 - Logic, if; Selection, switch, Conditional (Online Lecture Video)](https://www.youtube.com/watch?v=jUq0Jecls28) <br />
 
 
 ## Fardad's Schedule 
